@@ -26,7 +26,7 @@
   /** general */
   --font-family: mononoki Nerd Font;
   --font-size: 1;
-  --display-image: none;
+  --display-image: block;
 
   /** surface */
   --surface-maxWidth: 1110px;
