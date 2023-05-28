@@ -1,0 +1,80 @@
+{
+  "yags-bookmarks": [
+    {
+      "id": "smZBRAhJ8aU7RQXm",
+      "label": "Böcker",
+      "bookmarks": [
+        {
+          "id": "awXM7XZymPWIog0h",
+          "label": "Adlibris",
+          "url": "https://www.adlibris.com/se"
+        },
+        {
+          "id": "0t8QcXHXMPrIfKc7",
+          "label": "Bokus",
+          "url": "https://www.bokus.com/"
+        }
+      ]
+    },
+    {
+      "id": "zDYJaIww3lxjqtBX",
+      "label": "Bara E",
+      "bookmarks": [
+        {
+          "id": "c85STFRM5W18QjCs",
+          "label": "Bokon",
+          "url": "https://bokon.se/"
+        },
+        {
+          "id": "a8xb6ZqCpt4VIeFX",
+          "label": "GooglePlay Böcker",
+          "url": "https://play.google.com/store/books"
+        }
+      ]
+    },
+    {
+      "id": "EkDLByvHUUeiAR3w",
+      "label": "Antikvariskt",
+      "bookmarks": [
+        {
+          "id": "eaDQsPuktRvBCcrr",
+          "label": "Antikvariat.net",
+          "url": "https://www.antikvariat.net/sv/?currency=SEK"
+        }
+      ]
+    },
+    {
+      "id": "IGgufZp8cPwxYutc",
+      "label": "Elektronik",
+      "bookmarks": [
+        {
+          "id": "KUkMhnv2sjpxklDc",
+          "label": "Kjell & Company",
+          "url": "https://www.kjell.com/se"
+        }
+      ]
+    },
+    {
+      "id": "zF5sDxWHrv5bkwXv",
+      "label": "Övrigt",
+      "bookmarks": [
+        {
+          "id": "JsyXJfMiJ54ZOVBb",
+          "label": "Amazon.se",
+          "url": "https://www.amazon.se/"
+        }
+      ]
+    },
+    {
+      "id": "T3APDt0Ly2bWKaJE",
+      "label": "Admin",
+      "bookmarks": [
+        {
+          "id": "9JnhS6i6wb8gX2nv",
+          "label": "Upp...",
+          "url": "../index.html"
+        }
+      ]
+    }
+  ]
+}
