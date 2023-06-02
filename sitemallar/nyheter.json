@@ -1,0 +1,58 @@
+{
+  "yags-bookmarks": [
+    {
+      "id": "R8PCehvYHC2TUzg2",
+      "label": "Tidningar",
+      "bookmarks": [
+        {
+          "id": "DC6atUeA00gDzWvs",
+          "label": "DN",
+          "url": "https://www.dn.se/"
+        },
+        {
+          "id": "d74CH75RbPlFhBsY",
+          "label": "HD",
+          "url": "https://www.hd.se/"
+        },
+        {
+          "id": "WAbeyLAWBMt45iic",
+          "label": "SvD",
+          "url": "https://www.svd.se/"
+        }
+      ]
+    },
+    {
+      "id": "z01ehd5jnfQ4CY16",
+      "label": "Övriga svenska medier",
+      "bookmarks": [
+        {
+          "id": "6sKP2nWQZNbCIwMT",
+          "label": "SVT Nyheter",
+          "url": "https://svt.se"
+        }
+      ]
+    },
+    {
+      "id": "erSxk32JcgSrsbLu",
+      "label": "Utlänska",
+      "bookmarks": [
+        {
+          "id": "AknVO20woobvQB3W",
+          "label": "The Guardian",
+          "url": "https://www.theguardian.com/"
+        }
+      ]
+    },
+    {
+      "id": "L8vOvtki0J0y3ddH",
+      "label": "Meta",
+      "bookmarks": [
+        {
+          "id": "go2njLSkRXf6pmLP",
+          "label": "Upp...",
+          "url": "../index.html"
+        }
+      ]
+    }
+  ]
+}
